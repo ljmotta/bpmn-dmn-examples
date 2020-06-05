@@ -4,7 +4,7 @@
     <dmn:itemComponent id="_68b4a96c-198a-4575-b29a-a2c8b0539a2c" name="Type" isCollection="false">
       <dmn:typeRef>Product_Type</dmn:typeRef>
     </dmn:itemComponent>
-    <dmn:itemComponent id="_ab1647c2-cb63-4808-8d90-36d41591a40c" name="Rate" isCollection="false">
+    <dmn:itemComponent id="_ab1647c-cb63-4808-8d90-36d41591a40c" name="Rate" isCollection="false">
       <dmn:typeRef>number</dmn:typeRef>
     </dmn:itemComponent>
     <dmn:itemComponent id="_152917bb-6095-4057-8613-5b08b77db235" name="Term" isCollection="false">
