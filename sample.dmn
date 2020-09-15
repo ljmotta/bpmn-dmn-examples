@@ -284,7 +284,7 @@ else "Insufficient"</dmn:text>
           <dmn:text>Credit Score.FICO</dmn:text>
         </dmn:inputExpression>
       </dmn:input>
-      <dmn:output id="_9C201FAB-B49C-4D22-900B-B4E82D5469FB"/>
+      <dmn:output id="_9C201FAB-B49C-4D22-900B-B4E82D5469FB" typeRef="UNDEFINED"/>
       <dmn:annotation name=""/>
       <dmn:rule id="_AED703E1-8E56-4D27-A511-3875AD1D122E">
         <dmn:inputEntry id="_E2C9F30B-D529-48D8-A51C-A2ACCC8109B3">
@@ -610,7 +610,7 @@ else "Insufficient"</dmn:text>
           <dmndi:StrokeColor red="0" green="0" blue="0"/>
           <dmndi:FontColor red="0" green="0" blue="0"/>
         </dmndi:DMNStyle>
-        <dc:Bounds x="99.09345794392524" y="223.67105263157896" width="136" height="63"/>
+        <dc:Bounds x="99.09345794392524" y="106.67105263157896" width="136" height="63"/>
         <dmndi:DMNLabel/>
       </dmndi:DMNShape>
       <dmndi:DMNShape id="dmnshape-_F0DC8923-5FC7-4200-8BD1-461D5F3714BE" dmnElementRef="_F0DC8923-5FC7-4200-8BD1-461D5F3714BE" isCollapsed="false">
@@ -655,7 +655,7 @@ else "Insufficient"</dmn:text>
           <dmndi:StrokeColor red="0" green="0" blue="0"/>
           <dmndi:FontColor red="0" green="0" blue="0"/>
         </dmndi:DMNStyle>
-        <dc:Bounds x="963" y="225" width="136" height="62"/>
+        <dc:Bounds x="963" y="109" width="136" height="62"/>
         <dmndi:DMNLabel/>
       </dmndi:DMNShape>
       <dmndi:DMNShape id="dmnshape-_21C50763-E49F-4D83-A824-16DA6AA87C64" dmnElementRef="_21C50763-E49F-4D83-A824-16DA6AA87C64" isCollapsed="false">
@@ -664,7 +664,7 @@ else "Insufficient"</dmn:text>
           <dmndi:StrokeColor red="0" green="0" blue="0"/>
           <dmndi:FontColor red="0" green="0" blue="0"/>
         </dmndi:DMNStyle>
-        <dc:Bounds x="532" y="89" width="136" height="62"/>
+        <dc:Bounds x="531" y="22" width="136" height="62"/>
         <dmndi:DMNLabel/>
       </dmndi:DMNShape>
       <dmndi:DMNShape id="dmnshape-_6E3205AF-7E3D-4ABE-A367-96F3F6E8210E" dmnElementRef="_6E3205AF-7E3D-4ABE-A367-96F3F6E8210E" isCollapsed="false">
@@ -715,7 +715,7 @@ else "Insufficient"</dmn:text>
         <di:waypoint x="383" y="287"/>
       </dmndi:DMNEdge>
       <dmndi:DMNEdge id="dmnedge-_4D441C11-7042-49CF-A42C-17A4348A7F29" dmnElementRef="_4D441C11-7042-49CF-A42C-17A4348A7F29">
-        <di:waypoint x="167.09345794392524" y="255.17105263157896"/>
+        <di:waypoint x="167.09345794392524" y="138.17105263157896"/>
         <di:waypoint x="315" y="256"/>
       </dmndi:DMNEdge>
       <dmndi:DMNEdge id="dmnedge-_3217D655-4484-4733-A9AE-4F9CF30D9924" dmnElementRef="_3217D655-4484-4733-A9AE-4F9CF30D9924">
@@ -724,19 +724,19 @@ else "Insufficient"</dmn:text>
       </dmndi:DMNEdge>
       <dmndi:DMNEdge id="dmnedge-_31A1B6B2-A2A6-4E03-B898-26573A5CF3BA" dmnElementRef="_31A1B6B2-A2A6-4E03-B898-26573A5CF3BA">
         <di:waypoint x="1030" y="389.5"/>
-        <di:waypoint x="1031" y="287"/>
+        <di:waypoint x="1031" y="171"/>
       </dmndi:DMNEdge>
       <dmndi:DMNEdge id="dmnedge-_A3E95B32-2EFD-40AD-B5E4-0A73A1542011" dmnElementRef="_A3E95B32-2EFD-40AD-B5E4-0A73A1542011">
         <di:waypoint x="383" y="256"/>
-        <di:waypoint x="600" y="151"/>
+        <di:waypoint x="599" y="84"/>
       </dmndi:DMNEdge>
       <dmndi:DMNEdge id="dmnedge-_0B992F01-BA77-4F06-A830-D8948B467272" dmnElementRef="_0B992F01-BA77-4F06-A830-D8948B467272">
         <di:waypoint x="599" y="256"/>
-        <di:waypoint x="600" y="151"/>
+        <di:waypoint x="599" y="84"/>
       </dmndi:DMNEdge>
       <dmndi:DMNEdge id="dmnedge-_B6002F33-4888-48C5-B265-636030F8C2DC" dmnElementRef="_B6002F33-4888-48C5-B265-636030F8C2DC">
-        <di:waypoint x="1031" y="256"/>
-        <di:waypoint x="600" y="151"/>
+        <di:waypoint x="1031" y="140"/>
+        <di:waypoint x="599" y="84"/>
       </dmndi:DMNEdge>
     </dmndi:DMNDiagram>
   </dmndi:DMNDI>
