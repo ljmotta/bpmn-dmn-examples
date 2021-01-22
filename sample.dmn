@@ -236,11 +236,11 @@ else "Insufficient"</dmn:text>
     <dmn:informationRequirement id="_77BA409B-E00D-4FBC-B522-8F656D4F6F0E">
       <dmn:requiredInput href="#_1CF5CEFA-AF97-46F9-9CD5-9A8AEBB20B4E"/>
     </dmn:informationRequirement>
-    <dmn:knowledgeRequirement id="_4D441C11-7042-49CF-A42C-17A4348A7F29">
-      <dmn:requiredKnowledge href="#_4C788DBD-C672-4F41-9AFE-9C7D2C145734"/>
-    </dmn:knowledgeRequirement>
     <dmn:knowledgeRequirement id="_3217D655-4484-4733-A9AE-4F9CF30D9924">
       <dmn:requiredKnowledge href="#_DA5CCF62-90A8-4CFC-A137-98B528522588"/>
+    </dmn:knowledgeRequirement>
+    <dmn:knowledgeRequirement id="_4D441C11-7042-49CF-A42C-17A4348A7F29">
+      <dmn:requiredKnowledge href="#_4C788DBD-C672-4F41-9AFE-9C7D2C145734"/>
     </dmn:knowledgeRequirement>
     <dmn:context id="_5F9FEA4E-B3FC-4BC2-913E-36B8071FA777">
       <dmn:contextEntry>
@@ -714,13 +714,13 @@ else "Insufficient"</dmn:text>
         <di:waypoint x="383.0607476635514" y="391.5"/>
         <di:waypoint x="383" y="287"/>
       </dmndi:DMNEdge>
-      <dmndi:DMNEdge id="dmnedge-drg-_4D441C11-7042-49CF-A42C-17A4348A7F29" dmnElementRef="_4D441C11-7042-49CF-A42C-17A4348A7F29">
-        <di:waypoint x="186.09345794392524" y="132.17105263157896"/>
-        <di:waypoint x="315" y="256"/>
-      </dmndi:DMNEdge>
       <dmndi:DMNEdge id="dmnedge-drg-_3217D655-4484-4733-A9AE-4F9CF30D9924" dmnElementRef="_3217D655-4484-4733-A9AE-4F9CF30D9924">
         <di:waypoint x="167.09345794392524" y="359"/>
         <di:waypoint x="383" y="287"/>
+      </dmndi:DMNEdge>
+      <dmndi:DMNEdge id="dmnedge-drg-_4D441C11-7042-49CF-A42C-17A4348A7F29" dmnElementRef="_4D441C11-7042-49CF-A42C-17A4348A7F29">
+        <di:waypoint x="186.09345794392524" y="132.17105263157896"/>
+        <di:waypoint x="451" y="256"/>
       </dmndi:DMNEdge>
       <dmndi:DMNEdge id="dmnedge-drg-_31A1B6B2-A2A6-4E03-B898-26573A5CF3BA" dmnElementRef="_31A1B6B2-A2A6-4E03-B898-26573A5CF3BA">
         <di:waypoint x="1030" y="389.5"/>
