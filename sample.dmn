@@ -610,7 +610,7 @@ else "Insufficient"</dmn:text>
           <dmndi:StrokeColor red="0" green="0" blue="0"/>
           <dmndi:FontColor red="0" green="0" blue="0"/>
         </dmndi:DMNStyle>
-        <dc:Bounds x="118.09345794392524" y="100.67105263157896" width="136" height="63"/>
+        <dc:Bounds x="265.0934579439253" y="86.34210526315789" width="136" height="63"/>
         <dmndi:DMNLabel/>
       </dmndi:DMNShape>
       <dmndi:DMNShape id="dmnshape-drg-_F0DC8923-5FC7-4200-8BD1-461D5F3714BE" dmnElementRef="_F0DC8923-5FC7-4200-8BD1-461D5F3714BE" isCollapsed="false">
@@ -682,7 +682,7 @@ else "Insufficient"</dmn:text>
           <dmndi:StrokeColor red="0" green="0" blue="0"/>
           <dmndi:FontColor red="0" green="0" blue="0"/>
         </dmndi:DMNStyle>
-        <dc:Bounds x="99.09345794392524" y="359" width="136" height="63"/>
+        <dc:Bounds x="78.09345794392524" y="263" width="136" height="63"/>
         <dmndi:DMNLabel/>
       </dmndi:DMNShape>
       <dmndi:DMNShape id="dmnshape-drg-_C98BE939-B9C7-43E0-83E8-EE7A16C5276D" dmnElementRef="_C98BE939-B9C7-43E0-83E8-EE7A16C5276D" isCollapsed="false">
@@ -715,11 +715,11 @@ else "Insufficient"</dmn:text>
         <di:waypoint x="383" y="287"/>
       </dmndi:DMNEdge>
       <dmndi:DMNEdge id="dmnedge-drg-_3217D655-4484-4733-A9AE-4F9CF30D9924" dmnElementRef="_3217D655-4484-4733-A9AE-4F9CF30D9924">
-        <di:waypoint x="167.09345794392524" y="359"/>
+        <di:waypoint x="146.09345794392524" y="263"/>
         <di:waypoint x="383" y="287"/>
       </dmndi:DMNEdge>
       <dmndi:DMNEdge id="dmnedge-drg-_4D441C11-7042-49CF-A42C-17A4348A7F29" dmnElementRef="_4D441C11-7042-49CF-A42C-17A4348A7F29">
-        <di:waypoint x="186.09345794392524" y="132.17105263157896"/>
+        <di:waypoint x="333.0934579439253" y="117.84210526315789"/>
         <di:waypoint x="451" y="256"/>
       </dmndi:DMNEdge>
       <dmndi:DMNEdge id="dmnedge-drg-_31A1B6B2-A2A6-4E03-B898-26573A5CF3BA" dmnElementRef="_31A1B6B2-A2A6-4E03-B898-26573A5CF3BA">
