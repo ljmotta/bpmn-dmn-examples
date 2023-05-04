@@ -590,7 +590,7 @@ else "Insufficient"</dmn:text>
           <dmndi:StrokeColor red="0" green="0" blue="0"/>
           <dmndi:FontColor red="0" green="0" blue="0"/>
         </dmndi:DMNStyle>
-        <dc:Bounds x="1109" y="422.67105263157896" width="136" height="63"/>
+        <dc:Bounds x="916" y="6.671052631578959" width="136" height="63"/>
         <dmndi:DMNLabel/>
       </dmndi:DMNShape>
       <dmndi:DMNShape id="dmnshape-drg-_F0DC8923-5FC7-4200-8BD1-461D5F3714BE" dmnElementRef="_F0DC8923-5FC7-4200-8BD1-461D5F3714BE" isCollapsed="false">
@@ -686,7 +686,7 @@ else "Insufficient"</dmn:text>
         <di:waypoint x="996" y="287"/>
       </dmndi:DMNEdge>
       <dmndi:DMNEdge id="dmnedge-drg-_4D441C11-7042-49CF-A42C-17A4348A7F29" dmnElementRef="_4D441C11-7042-49CF-A42C-17A4348A7F29">
-        <di:waypoint x="1177" y="454.17105263157896"/>
+        <di:waypoint x="984" y="38.17105263157896"/>
         <di:waypoint x="1064" y="256"/>
       </dmndi:DMNEdge>
       <dmndi:DMNEdge id="dmnedge-drg-_31A1B6B2-A2A6-4E03-B898-26573A5CF3BA" dmnElementRef="_31A1B6B2-A2A6-4E03-B898-26573A5CF3BA">
